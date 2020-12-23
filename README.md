@@ -1,1 +1,1 @@
-Browser extension to filter the trolls at Scott Sumner's blog (https://www.themoneyillusion.com/)[The Money Illusion].
+Browser extension to filter the trolls at Scott Sumner's blog [The Money Illusion](https://www.themoneyillusion.com/).
