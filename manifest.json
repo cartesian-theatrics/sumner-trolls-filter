@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "GTmetrix Analyzer Plugin",
+    "name": "The Comment Illusion",
 
-    "description": "This extension will analyze a page using GTmetrix",
+    "description": "Filter's trolls",
     "version": "1.0",
     "content_scripts": [
         {
@@ -13,7 +13,7 @@
 
     "browser_action": {
         "default_icon": "icon.png",
-        "default_popup": "popup.html"
+        "default_popup": "plugin.html"
     },
     "permissions": [
         "activeTab"
