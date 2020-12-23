@@ -1,2 +1,1 @@
-# sumner-trolls-filter
-Filter Scott Sumner's Trolls
+Browser extension to filter the trolls at Scott Sumner's blog (https://www.themoneyillusion.com/)[The Money Illusion].
